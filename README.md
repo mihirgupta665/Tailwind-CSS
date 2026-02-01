@@ -9,3 +9,7 @@ add this in package.json too :
   "scripts": {
     "start": "vite"
   },
+
+      /4          *4
+1 -> 0.25 rem -> 4px
+4 -> 1 rem -> 16px
