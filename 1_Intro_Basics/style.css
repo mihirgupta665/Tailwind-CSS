@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.box {
+    @apply w-96 h-44 text-white text-2xl bg-purple-700
+}

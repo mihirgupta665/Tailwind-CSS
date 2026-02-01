@@ -16,3 +16,13 @@ add this in package.json too :
 
 attribute-[value_units] : sets the specified style
 h-[200px] : sets height of 200px
+
+Responsiveness : add a breakpoint prefix to the utility classes followed by a colon. eg=>   md:w-32 lg:w-48
+sm : 640px
+md: 768px
+lg: 1024px
+xl : 1280px
+2xl : 1536px
+
+Use @Apply to inline any existing utility classes inton your own custom CSS.  
+In style.css file give a class then in it curly bracket area wite first @apply then give the tailwind classes . By this muliple styling will be added with you custom style name.
